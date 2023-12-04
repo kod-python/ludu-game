@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* universal section starts here */
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+/* universal section ends here */
+
+
+/* ludu section starts here */
+
+#ludu .vl{
+    border-left: 1px solid ;
+    height: 200px;
+    margin-left: 100px;
+    height: 95rem;
+}
+
+#ludu .vl1{
+    border-left: 1px solid;
+    height:200px ;
+    margin-left: 100px;
+    height:95rem;
+}
+
+
+
+#ludu .vl2{
+    border-left: 1px solid;
+    height:200px ;
+    margin-left: 100px;
+    height: 95rem;
+}
+
+
+
+
+
+#ludu .vl3{
+    border-left: 1px solid;
+    height:200px ;
+    margin-left: 100px;
+    height: 95rem;
+}
+
+
+
+
+#ludu .vl4{
+    border-left: 1px solid;
+    height:200px ;
+    margin-left: 100px;
+    height: 95rem;
+}
+
+#ludu .vl5{
+    border-left: 1px solid;
+    height: 22rempx;
+    margin-left: 40px;
+    
+ 
+   
+}
+
+
+#ludu .vl6{
+    border-left: 1px solid;
+    height: 22rem;
+    margin-left: 40px;
+    padding: 40px;
+ 
+
+}
+
+
+#ludu .vl7{
+    border-left: 1px solid;
+    height: 22rem;
+    margin-left: 40px;
+    padding: 40px;
+ 
+
+}
+
+
+#ludu .vl8{
+    border-left: 1px solid;
+    height: 22rem;
+    margin-left: 40px;
+    padding: 40px;
+ 
+
+}
+
+
+#ludu .vl-left{
+    display: flex;
+}
+
+
+#ludu hr{
+    margin-top: -83px;
+}
+
+#ludu .hr-main{
+    margin-top: -50rem;
+}
+
+
+#ludu .vl-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#ludu .vl-left{
+    margin-top: -24rem;
+    padding: 40px;
+    
+  
+}
+
+#ludu .ludu-top{
+    border: 1px solid;
+    height: 96rem;
+}
+
+
+
+
+
+/* ludu section ends here */
