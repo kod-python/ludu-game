@@ -14,128 +14,293 @@
 }
 /* universal section ends here */
 
+/* first design starts here */
 
-/* ludu section starts here */
-
-#ludu .vl{
-    border-left: 1px solid ;
-    height: 200px;
-    margin-left: 100px;
-    height: 95rem;
+#fdesign .fdesign-top{
+    background-color: red;
+    width: 20rem;
 }
 
-#ludu .vl1{
-    border-left: 1px solid;
-    height:200px ;
-    margin-left: 100px;
-    height:95rem;
-}
-
-
-
-#ludu .vl2{
-    border-left: 1px solid;
-    height:200px ;
-    margin-left: 100px;
-    height: 95rem;
-}
-
-
-
-
-
-#ludu .vl3{
-    border-left: 1px solid;
-    height:200px ;
-    margin-left: 100px;
-    height: 95rem;
-}
-
-
-
-
-#ludu .vl4{
-    border-left: 1px solid;
-    height:200px ;
-    margin-left: 100px;
-    height: 95rem;
-}
-
-#ludu .vl5{
-    border-left: 1px solid;
-    height: 22rempx;
-    margin-left: 40px;
-    
- 
+#fdesign .fdesign-down{
+    background-color: white;
    
 }
 
 
-#ludu .vl6{
-    border-left: 1px solid;
-    height: 22rem;
-    margin-left: 40px;
-    padding: 40px;
- 
+/* first design ends here */
 
+
+
+/* second design starts here */
+
+#fdsesign .sdesign-top{
+    background-color: green;
 }
+/* second design ends here */
 
 
-#ludu .vl7{
-    border-left: 1px solid;
-    height: 22rem;
-    margin-left: 40px;
-    padding: 40px;
+
+
+
+
+
+
+
+
+
+
+
+/* ludu section starts here */
+
+#ludu .border1{
+    border: 1px solid;
+    height: 23.4rem;
+    width: 20rem;
+    margin-left: 28.6rem;
  
-
-}
-
-
-#ludu .vl8{
-    border-left: 1px solid;
-    height: 22rem;
-    margin-left: 40px;
-    padding: 40px;
- 
-
-}
-
-
-#ludu .vl-left{
-    display: flex;
 }
 
 
 #ludu hr{
-    margin-top: -83px;
+    padding: 30px;
+    border-left: none;
+    border-right: none;
+    width: 20rem;
 }
 
-#ludu .hr-main{
-    margin-top: -50rem;
+#ludu .bordertop{
+ 
+    margin-top: 58px;
+    
 }
 
 
-#ludu .vl-main{
+#ludu .vl_left{
+    border-left: 1px solid;
+
+    height: 370px;
+}
+
+
+
+
+#ludu .vl_right{
+    border-left: 1px solid;
+     
+    height: 370px;
+}
+
+
+#ludu .vl_main{
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+     gap: 7rem;
+     justify-content: center;
+     margin-top: -23rem;
 }
-
-#ludu .vl-left{
-    margin-top: -24rem;
-    padding: 40px;
-    
-  
-}
-
-#ludu .ludu-top{
-    border: 1px solid;
-    height: 96rem;
-}
-
-
-
 
 
 /* ludu section ends here */
+
+
+/* middle section starts here */
+
+#ludu_middle .ludu_middle{
+    border: 1px solid;
+    width: 20rem;
+    height: 15rem;
+ 
+}
+/* middle section ends here */
+
+
+
+/* left_right ludu sections starts here */
+#ludu_left .left_ludu{
+    border: 1px solid;
+    height: 23.4rem;
+    width: 20rem;
+    margin-left: 30rem;
+ 
+}
+
+
+#ludu hr{
+    padding: 30px;
+    border-left: none;
+    border-right: none;
+    width: 20rem;
+}
+
+#ludu .bordertop{
+ 
+    margin-top: 58px;
+    
+}
+
+
+#ludu .vl_left{
+    border-left: 1px solid;
+
+    height: 370px;
+}
+
+
+
+
+#ludu .vl_right{
+    border-left: 1px solid;
+     
+    height: 370px;
+}
+
+
+#ludu .vl_main{
+    display: flex;
+    align-items: center;
+     gap: 7rem;
+     justify-content: center;
+     margin-top: -23rem;
+}
+
+
+
+
+#ludu .left_right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* left_right ludu section ends here */
+
+
+
+
+/* leftright sections starts here */
+
+
+#left_right_main .left_right_main{
+    display: flex;
+    align-items: center;
+    margin-left: -15rem;
+    margin-top: -14rem;
+    
+
+}
+
+#left_right_main .border1{
+    border: 1px solid;
+    height: 12.5rem;
+    width: 30rem;
+    margin-left: 23rem;
+ 
+}
+
+
+
+#left_right_main hr{
+    padding: 40px;
+    border-left: none;
+    border-right: none;
+    width: 30rem;
+  
+}
+
+#left_right_main .bordertop{
+ 
+    margin-top: 56px;
+    
+}
+
+
+#left_right_main .vl_left{
+    border-left: 1px solid;
+
+    height: 197px;
+    
+    margin-top: 9.2rem;
+}
+
+
+
+
+#left_right_main .vl_right{
+    border-left: 1px solid;
+     
+    height: 197px;
+   
+    margin-top: 9.2rem;
+}
+
+
+#left_right_main .vl_main{
+    display: flex;
+    align-items: center;
+     gap: 5rem;
+     justify-content: center;
+     margin-top: -23rem;
+}
+
+
+/* leftriight section ends here */
+
+
+
+
+/* ludu-down starts here */
+
+
+
+
+#ludu-down .border1{
+    border: 1px solid;
+    height: 23.4rem;
+    width: 20rem;
+    margin-left: 28.6rem;
+    margin-top: 1.5rem;
+ 
+}
+
+
+#ludu-down hr{
+    padding: 30px;
+    border-left: none;
+    border-right: none;
+    width: 20rem;
+}
+
+#ludu-down .bordertop{
+ 
+    margin-top: 58px;
+    
+}
+
+
+#ludu-down .vl_left{
+    border-left: 1px solid;
+ 
+
+    height: 370px;
+}
+
+
+
+
+#ludu-down .vl_right{
+    border-left: 1px solid;
+     
+    height: 370px;
+}
+
+
+#ludu-down .vl_main{
+    display: flex;
+    align-items: center;
+     gap: 7rem;
+     justify-content: center;
+     margin-top: -23rem;
+}
+
+
+/* ludu-down ends here */
